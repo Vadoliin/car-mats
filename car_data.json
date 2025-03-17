@@ -2835,7 +2835,7 @@
     "DAF XF (XF95)": [
       {
         "generation": "II",
-        "body_type": "Вантажівка",
+        "body_type": "Truck",
         "year": "(2002-2006)",
         "article": "DAF-05"
       }
@@ -2843,7 +2843,7 @@
     "XF 105": [
       {
         "generation": "III",
-        "body_type": "Вантажівка",
+        "body_type": "Truck",
         "year": "(2006-2013)",
         "article": "DAF-04"
       }
@@ -3631,7 +3631,7 @@
     "F-MAX": [
       {
         "generation": "I",
-        "body_type": "Вантажівка",
+        "body_type": "Truck",
         "year": "(2018-…)",
         "article": "F-103"
       }
@@ -6025,7 +6025,7 @@
     "Eurocargo": [
       {
         "generation": "III",
-        "body_type": "Вантажівка",
+        "body_type": "Truck",
         "year": "(2008-2015)",
         "article": "IVEC-07"
       }
@@ -6033,7 +6033,7 @@
     "Eurocargo ML100E18": [
       {
         "generation": "II",
-        "body_type": "Вантажівка",
+        "body_type": "Truck",
         "year": "(2002-2008)",
         "article": "IVEC-08"
       }
@@ -6041,7 +6041,7 @@
     "Eurocargo ML75E18 (E17)": [
       {
         "generation": "II",
-        "body_type": "Вантажівка",
+        "body_type": "Truck",
         "year": "(2002-2008)",
         "article": "IVEC-06"
       }
@@ -6049,7 +6049,7 @@
     "Stralis": [
       {
         "generation": "I",
-        "body_type": "Вантажівка",
+        "body_type": "Truck",
         "year": "(2002-2007)",
         "article": "IVEC-04"
       }
@@ -6057,7 +6057,7 @@
     "Tector Eurocargo": [
       {
         "generation": "III",
-        "body_type": "Вантажівка",
+        "body_type": "Truck",
         "year": "(2008-2015)",
         "article": "IVEC-02"
       }
@@ -7557,7 +7557,7 @@
     "F-90 Comandor": [
       {
         "generation": "I",
-        "body_type": "Вантажівка",
+        "body_type": "Truck",
         "year": "(1986-1994)",
         "article": "MAN-07"
       }
@@ -7565,7 +7565,7 @@
     "TGA 18.410": [
       {
         "generation": "I",
-        "body_type": "Вантажівка",
+        "body_type": "Truck",
         "year": "(2000-2008)",
         "article": "MAN-06"
       }
@@ -7581,7 +7581,7 @@
     "TGM": [
       {
         "generation": "I",
-        "body_type": "Вантажівка",
+        "body_type": "Truck",
         "year": "(2005-…)",
         "article": "MAN-04"
       }
@@ -7589,7 +7589,7 @@
     "TGX": [
       {
         "generation": "I",
-        "body_type": "Вантажівка",
+        "body_type": "Truck",
         "year": "(2007-2020)",
         "article": "MAN-02"
       }
@@ -7953,7 +7953,7 @@
     "Atego": [
       {
         "generation": "I",
-        "body_type": "Вантажівка",
+        "body_type": "Truck",
         "year": "(1998-2004)",
         "article": "MS-154"
       }
@@ -8025,7 +8025,7 @@
     "LN (LK/1317)": [
       {
         "generation": "I",
-        "body_type": "Вантажівка",
+        "body_type": "Truck",
         "year": "(1984-1996)",
         "article": "MS-178"
       }
@@ -11273,7 +11273,7 @@
     "Premium": [
       {
         "generation": "I",
-        "body_type": "Вантажівка",
+        "body_type": "Truck",
         "year": "(1996-2006)",
         "article": "RN-106"
       }
@@ -11495,7 +11495,7 @@
     "P 230": [
       {
         "generation": "I",
-        "body_type": "Вантажівка",
+        "body_type": "Truck",
         "year": "(2004-2017)",
         "article": "SC-01"
       }
@@ -14253,19 +14253,19 @@
     "FH": [
       {
         "generation": "II",
-        "body_type": "Вантажівка",
+        "body_type": "Truck",
         "year": "(2008-2012)",
         "article": "VOL-23"
       },
       {
         "generation": "I",
-        "body_type": "Вантажівка",
+        "body_type": "Truck",
         "year": "(1998-2002)",
         "article": "VOL-45"
       },
       {
         "generation": "II",
-        "body_type": "Вантажівка",
+        "body_type": "Truck",
         "year": "(2011-…)",
         "article": "VOL-46"
       }
@@ -14453,7 +14453,7 @@
       }
     ]
   },
-  "ВАЗ": {
+  "VAZ": {
     "21011": [
       {
         "generation": "I",
@@ -14562,7 +14562,7 @@
         "article": "VAZ-02"
       }
     ],
-    "21213/21214 Нива": [
+    "21213/21214 Niva": [
       {
         "generation": "I",
         "body_type": "Crossover",
@@ -14570,7 +14570,7 @@
         "article": "VAZ-18"
       }
     ],
-    "21214 Нива (LADA 4x4)": [
+    "21214 Niva (LADA 4x4)": [
       {
         "generation": "I",
         "body_type": "Crossover",
@@ -14578,7 +14578,7 @@
         "article": "VAZ-28"
       }
     ],
-    "2126 ИЖ": [
+    "2126 IJ": [
       {
         "generation": "I",
         "body_type": "Hatchback",
@@ -14601,7 +14601,7 @@
       }
     ]
   },
-  "ГАЗ": {
+  "GAZ": {
     "2410": [
       {
         "generation": "I",
@@ -14629,18 +14629,18 @@
     "3302": [
       {
         "generation": "I",
-        "body_type": "Вантажівка",
+        "body_type": "Truck",
         "year": "(1994-2010)",
         "article": "GAZ-07"
       },
       {
         "generation": "II",
-        "body_type": "Вантажівка",
+        "body_type": "Truck",
         "year": "(2003-2010)",
         "article": "GAZ-08"
       }
     ],
-    "Волга 21": [
+    "Volga 21": [
       {
         "generation": "I",
         "body_type": "Sedan",
@@ -14648,7 +14648,7 @@
         "article": "GAZ-01"
       }
     ],
-    "ЗИМ (ГАЗ 12)": [
+    "ZYM (GAZ 12)": [
       {
         "generation": "I",
         "body_type": "Sedan",
@@ -14837,7 +14837,7 @@
   },
 
   "Tavria": {
-    "1102 Таврия": [
+    "1102 Tavria": [
       {
         "generation": "I",
         "body_type": "Hatchback",
@@ -14862,7 +14862,7 @@
       }
     ]
   },
-  "УАЗ": {
+  "UAZ": {
     "Patriot": [
       {
         "generation": "I",
