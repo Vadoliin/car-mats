@@ -14657,8 +14657,8 @@
       }
     ]
   },
-  "ЗАЗ": {
-    "1103 Славута": [
+  "ZAZ": {
+    "1103 Slavuta": [
       {
         "generation": "I",
         "body_type": "Liftback",
@@ -14705,7 +14705,7 @@
       }
     ]
   },
-  "Лада": {
+  "Lada": {
     "1117 Kalina": [
       {
         "generation": "I",
@@ -14835,17 +14835,8 @@
       }
     ]
   },
-  "Органайзер": {
-    "EVA": [
-      {
-        "generation": "Unknow",
-        "body_type": "Unknow",
-        "year": "(-)",
-        "article": "ORG-01"
-      }
-    ]
-  },
-  "Таврия": {
+
+  "Tavria": {
     "1102 Таврия": [
       {
         "generation": "I",
@@ -14854,7 +14845,7 @@
         "article": "VAZ-33"
       }
     ],
-    "1102 Таврия Нова": [
+    "1102 Tavria Nova": [
       {
         "generation": "II",
         "body_type": "Hatchback",
@@ -14862,7 +14853,7 @@
         "article": "VAZ-12"
       }
     ],
-    "110557 Таврия": [
+    "110557 Tavria": [
       {
         "generation": "I",
         "body_type": "Pickup Truck",
